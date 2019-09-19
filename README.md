@@ -24,4 +24,4 @@ The dataset used is [MovieLens 100k Dataset](https://grouplens.org/datasets/movi
 
 ## References
 
-This video from Stanford Machine Learning course explains the idea behind the methody employed in this notebook. [Video](https://www.coursera.org/lecture/machine-learning/vectorization-low-rank-matrix-factorization-CEXN0)
+This video from Stanford Machine Learning course explains the idea behind the methodology employed in this notebook. [Video](https://www.coursera.org/lecture/machine-learning/vectorization-low-rank-matrix-factorization-CEXN0)
